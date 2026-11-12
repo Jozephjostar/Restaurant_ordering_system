@@ -1,1 +1,0 @@
-print(nurs lok)
